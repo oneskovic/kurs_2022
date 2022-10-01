@@ -1,40 +1,6 @@
-
-
 # Header
-Welcome to md-page, the easiest way to make a webpage from just markdown...
+Materijali za osnovni C# kurs
 
-## header two
-  
-### header three
-  
-#### header four
-  
-##### header five
-
-*this will be italic*
-
-**this will be bold**
-
-~~this will be strike through~~
-
-__this will be underlined__
-
-
-## Lists
-### Unordered
-* item one
-* item two
-    * item a
-    * item b
-
-### Ordered
-1. Item 1
-1. Item 2
-1. Item 3
-  1. item 3a
-  
-# links
-
-[md-page Github repo](https://github.com/oscarmorrison/md-page) *give us a :star:*
-
-[demo page](https://oscarmorrison.com/md-page/)
+## 10.1.2022.
+  * [Tabla] (https://github.com/oneskovic/kurs_2022/blob/gh-pages/table/Dan1.pdf)
+  * [Recnik] (https://recnik-lns.web.app/)
