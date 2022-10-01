@@ -1,6 +1,4 @@
-layout: page
-title: "PAGE TITLE"
-permalink: /index/
+
 
 # Header
 Welcome to md-page, the easiest way to make a webpage from just markdown...
