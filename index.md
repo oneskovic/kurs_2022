@@ -16,14 +16,14 @@ Kako biste lakše proverili da li ste ispravno rešili neki zadatak na času ili
 ## 10.8.2022.
   * [Tabla](https://github.com/oneskovic/kurs_2022/blob/gh-pages/table/10.8.2022.pdf)
   * Zadaci:
-  1. [Rastojanje tacaka](https://petlja.org/biblioteka/r/Zbirka/rastojanje_tacaka) ( [Rešenje](https://github.com/oneskovic/kurs_2022/blob/gh-pages/kodovi/10.8.2022/rastojanje_tacaka.cs) )
-  2. [Pravougaonik dat naspramnim temenima](https://petlja.org/biblioteka/r/Zbirka/pravougaonik_dat_naspramnim_temenima) ( [Rešenje](https://github.com/oneskovic/kurs_2022/blob/gh-pages/kodovi/10.8.2022/pravougaonik_dat_naspramnim_temenima.cs) )
+  1. [Rastojanje tacaka](https://petlja.org/biblioteka/r/Zbirka/rastojanje_tacaka) ([Rešenje](https://github.com/oneskovic/kurs_2022/blob/gh-pages/kodovi/10.8.2022/rastojanje_tacaka.cs))
+  2. [Pravougaonik dat naspramnim temenima](https://petlja.org/biblioteka/r/Zbirka/pravougaonik_dat_naspramnim_temenima) ([Rešenje](https://github.com/oneskovic/kurs_2022/blob/gh-pages/kodovi/10.8.2022/pravougaonik_dat_naspramnim_temenima.cs))
 
 
 # 10.15.2022.
   * [Tabla](https://github.com/oneskovic/kurs_2022/blob/gh-pages/table/10.15.2022.pdf)
   * Zadaci:
-  1. [Trougao odredjen pravom i koordinatnim pocetkom](https://petlja.org/biblioteka/r/Zbirka/trougao_odredjen_pravom_i_koordinatnim_pocetkom) ( [Rešenje](https://github.com/oneskovic/kurs_2022/blob/gh-pages/kodovi/10.15.2022/trougao_odredjen_pravom_i_koordinatnim_pocetkom.cs) )
-  2. [Taksi](https://petlja.org/biblioteka/r/Zbirka/taksi) ( [Rešenje](https://github.com/oneskovic/kurs_2022/blob/gh-pages/kodovi/10.15.2022/taksi.cs) )
+  1. [Trougao odredjen pravom i koordinatnim pocetkom](https://petlja.org/biblioteka/r/Zbirka/trougao_odredjen_pravom_i_koordinatnim_pocetkom) ([Rešenje](https://github.com/oneskovic/kurs_2022/blob/gh-pages/kodovi/10.15.2022/trougao_odredjen_pravom_i_koordinatnim_pocetkom.cs))
+  2. [Taksi](https://petlja.org/biblioteka/r/Zbirka/taksi) ([Rešenje](https://github.com/oneskovic/kurs_2022/blob/gh-pages/kodovi/10.15.2022/taksi.cs))
   3. [Razmeni cifre](https://petlja.org/biblioteka/r/Zbirka/razmeni_cifre) ([Rešenje](https://github.com/oneskovic/kurs_2022/blob/gh-pages/kodovi/10.15.2022/razmeni_cifre.cs))
-  4. **Domaći** [Šahovska tabla broj crnih polja](https://petlja.org/biblioteka/r/Zbirka/sahovska_tabla_broj_crnih_polja)
+  4. **Domaći:** [Šahovska tabla broj crnih polja](https://petlja.org/biblioteka/r/Zbirka/sahovska_tabla_broj_crnih_polja)
