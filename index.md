@@ -42,3 +42,14 @@ Kako biste lakše proverili da li ste ispravno rešili neki zadatak na času ili
   7. **Domaći:** [Najlošiji kontrolni](https://petlja.org/biblioteka/r/Zbirka/najlosiji_kontrolni)
 
 
+## 10.29.2022.
+  * [Tabla](https://github.com/oneskovic/kurs_2022/blob/gh-pages/table/10.29.2022.pdf)
+  * Zadaci:
+  1. [Zbir godina braće i sestre](https://petlja.org/biblioteka/r/Zbirka/zbir_godina_brace_i_sestre) ([Rešenje](https://github.com/oneskovic/kurs_2022/blob/gh-pages/kodovi/10.29.2022/zbir_godina_brace_i_sestre.cs))
+  2. [Uspeh učenika](https://petlja.org/biblioteka/r/Zbirka/uspeh_ucenika) ([Rešenje](https://github.com/oneskovic/kurs_2022/blob/gh-pages/kodovi/10.29.2022/uspeh_ucenika.cs))
+  3. [Najlošiji kontrolni](https://petlja.org/biblioteka/r/Zbirka/najlosiji_kontrolni) ([Rešenje](https://github.com/oneskovic/kurs_2022/blob/gh-pages/kodovi/10.29.2022/najlosiji_kontrolni.cs))
+  4. **Domaći:** [Suma niza brojeva](https://petlja.org/biblioteka/r/Zbirka/suma_geometrijskog_niza)
+  5. **Domaći:** [Parno neparni](https://petlja.org/biblioteka/r/Zbirka/parno_neparni)
+  6. **Domaći:** [Brojevi deljivi sa 3](https://petlja.org/biblioteka/r/Zbirka/brojevi_deljivi_sa_3)
+
+
