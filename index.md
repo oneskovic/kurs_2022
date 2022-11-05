@@ -53,3 +53,16 @@ Kako biste lakše proverili da li ste ispravno rešili neki zadatak na času ili
   6. **Domaći:** [Brojevi deljivi sa 3](https://petlja.org/biblioteka/r/Zbirka/brojevi_deljivi_sa_3)
 
 
+## 11.05.2022.
+  * [Tabla](https://github.com/oneskovic/kurs_2022/blob/gh-pages/table/11.05.2022.pdf)
+  * Zadaci:
+  1. [Parno neparni](https://petlja.org/biblioteka/r/Zbirka/parno_neparni) ([Rešenje](https://github.com/oneskovic/kurs_2022/blob/gh-pages/kodovi/11.05.2022/parno_neparni.cs))
+  2. [Suma niza brojeva](https://petlja.org/biblioteka/r/Zbirka/suma_geometrijskog_niza) ([Rešenje](https://github.com/oneskovic/kurs_2022/blob/gh-pages/kodovi/11.05.2022/suma_geometrijskog_niza.cs))
+  3. [Ćilim od zvezdica](https://petlja.org/biblioteka/r/Zbirka/cilim_od_zvezdica) ([Rešenje](https://github.com/oneskovic/kurs_2022/blob/gh-pages/kodovi/11.05.2022/cilim_od_zvezdica.cs))
+  4. [Nedostaje jedan](https://oneskovic.github.io/kurs_2022/zadaci/nedostaje_jedan) ([Rešenje](https://github.com/oneskovic/kurs_2022/blob/gh-pages/kodovi/11.05.2022/nedostaje_jedan.cs))
+  5. **Domaći:** [Armstrongov broj](https://petlja.org/biblioteka/r/Zbirka/armstrongovi_brojevi)
+  6. **Domaći:** [Serije neparni parni](https://petlja.org/biblioteka/r/Zbirka/serije_neparni_parni)
+  7. **Domaći:** [Zbirovi segmenata niza između nula](https://petlja.org/biblioteka/r/Zbirka/suma_segmenata_izmedju_nula)
+  8. **Domaći:** [Najduži segment uzastopnih brojeva](https://petlja.org/biblioteka/r/Zbirka/najduzi_segment_uzastopnih_brojeva)
+
+
