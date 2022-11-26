@@ -66,3 +66,20 @@ Kako biste lakše proverili da li ste ispravno rešili neki zadatak na času ili
   8. **Domaći:** [Najduži segment uzastopnih brojeva](https://petlja.org/biblioteka/r/Zbirka/najduzi_segment_uzastopnih_brojeva)
 
 
+## 11.19.2022.
+  * [Tabla](https://github.com/oneskovic/kurs_2022/blob/gh-pages/table/11.19.2022.pdf)
+  * Zadaci:
+  1. [Serije neparni parni](https://petlja.org/biblioteka/r/Zbirka/serije_neparni_parni) ([Rešenje](https://github.com/oneskovic/kurs_2022/blob/gh-pages/kodovi/11.19.2022/serije_neparni_parni.cs))
+  2. [Zbirovi segmenata niza između nula](https://petlja.org/biblioteka/r/Zbirka/suma_segmenata_izmedju_nula) ([Rešenje](https://github.com/oneskovic/kurs_2022/blob/gh-pages/kodovi/11.19.2022/suma_segmenata_izmedju_nula.cs))
+  3. [Parni i neparni elementi](https://petlja.org/biblioteka/r/Zbirka/parni_i_neparni_elementi) ([Rešenje](https://github.com/oneskovic/kurs_2022/blob/gh-pages/kodovi/11.19.2022/parni_i_neparni_elementi.cs))
+  4. **Domaći:** [Obrtanje niza](https://petlja.org/biblioteka/r/Zbirka/obrtanje_niza)
+
+
+## 11.26.2022.
+  * [Tabla](https://github.com/oneskovic/kurs_2022/blob/gh-pages/table/11.26.2022.pdf)
+  * Zadaci:
+  1. [Broj maksimalnih](https://petlja.org/biblioteka/r/Zbirka/broj_maksimalnih1) ([Rešenje](https://github.com/oneskovic/kurs_2022/blob/gh-pages/kodovi/11.26.2022/broj_maksimalnih1.cs))
+  2. **Domaći:** [Izbacivanje elemenata](https://petlja.org/biblioteka/r/Zbirka/izbacivanje_elemenata)
+  3. **Domaći:** [Neobrisani brojevi](https://petlja.org/biblioteka/r/Zbirka/neobrisani_brojevi)
+
+
