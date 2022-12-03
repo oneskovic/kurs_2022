@@ -91,5 +91,5 @@ Kako biste lakše proverili da li ste ispravno rešili neki zadatak na času ili
   3. **Domaći:** [Najčešće malo i veliko slovo](https://petlja.org/biblioteka/r/Zbirka/najcesce_malo_i_veliko_slovo)
 
 ## 12.10.2022
-  ## <span style="color:red">Neće biti održana nastava.</span>
+  <h2 style="color:red">Neće biti održana nastava.</h2>
 
