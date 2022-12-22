@@ -93,3 +93,12 @@ Kako biste lakše proverili da li ste ispravno rešili neki zadatak na času ili
 ## 12.10.2022
   <h3 style="color:red">Neće biti održana nastava.</h3>
 
+## 12.17.2022.
+  * [Tabla](https://github.com/oneskovic/kurs_2022/blob/gh-pages/table/12.17.2022.pdf)
+  * Zadaci:
+  1. [Palindromska rečenica](https://petlja.org/biblioteka/r/Zbirka/recenica_palindrom) ([Rešenje](https://github.com/oneskovic/kurs_2022/blob/gh-pages/kodovi/12.17.2022/recenica_palindrom.cs))
+  2. [Najčešće malo i veliko slovo](https://petlja.org/biblioteka/r/Zbirka/najcesce_malo_i_veliko_slovo) ([Rešenje](https://github.com/oneskovic/kurs_2022/blob/gh-pages/kodovi/12.17.2022/najcesce_malo_i_veliko_slovo.cs))
+  3. **Domaći:** [Frekvencije reči](https://petlja.org/biblioteka/r/Zbirka/frekvencije_reci)
+  4. **Domaći:** [Minomorija](https://petlja.org/biblioteka/r/Zbirka/minomorija)
+
+
