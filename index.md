@@ -1,3 +1,5 @@
+Predavač: [Ognjen Nešković](https://alas.matf.bg.ac.rs/~mi22009)
+Kontakt: <a href="mailto:oneskovic622rn@raf.rs">oneskovic622rn@raf.rs</a>
 # Materijali za osnovni C# kurs
 Za praćenje i izradu zadataka kod kuće za ovaj kurs je potrebno instalirati razvojno okruženje [Visual Studio Community](https://visualstudio.microsoft.com/downloads/).
 
@@ -101,4 +103,16 @@ Kako biste lakše proverili da li ste ispravno rešili neki zadatak na času ili
   3. **Domaći:** [Frekvencije reči](https://petlja.org/biblioteka/r/Zbirka/frekvencije_reci)
   4. **Domaći:** [Minomorija](https://petlja.org/biblioteka/r/Zbirka/minomorija)
 
+
+## 12.24.2022.
+  * [Tabla](https://github.com/oneskovic/kurs_2022/blob/gh-pages/table/12.24.2022.pdf)
+  * Zadaci:
+  1. [Minomorija](https://petlja.org/biblioteka/r/Zbirka/minomorija) ([Rešenje](https://github.com/oneskovic/kurs_2022/blob/gh-pages/kodovi/12.24.2022/minomorija.cs))
+  2. [Broj bombi u okolini](https://petlja.org/biblioteka/r/Zbirka/broj_bombi_u_okolini) ([Rešenje](https://github.com/oneskovic/kurs_2022/blob/gh-pages/kodovi/12.24.2022/broj_bombi_u_okolini.cs))
+  3. **Domaći:** [Najveća dijagonala](https://petlja.org/biblioteka/r/Zbirka/najveca_dijagonala)
+  4. **Domaći:** [Broj pravougaonika na slici](https://petlja.org/biblioteka/r/Zbirka/broj_pravougaonika_na_slici)
+  5. **Domaći:** [Presedanje](https://petlja.org/biblioteka/r/Zbirka/presedanje)
+
+## 12.31.2022. - 1.28.2023
+  <h3 style="color:red">Neće biti nastave.</h3>
 
