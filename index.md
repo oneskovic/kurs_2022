@@ -1,5 +1,5 @@
-Predavač: [Ognjen Nešković](https://alas.matf.bg.ac.rs/~mi22009)
-Kontakt: <a href="mailto:oneskovic622rn@raf.rs">oneskovic622rn@raf.rs</a>
+<p>Predavač: <a href="https://alas.matf.bg.ac.rs/~mi22009">Ognjen Nešković</a></p>
+<p>Kontakt: <a href="mailto:oneskovic622rn@raf.rs">oneskovic622rn@raf.rs</a></p>
 # Materijali za osnovni C# kurs
 Za praćenje i izradu zadataka kod kuće za ovaj kurs je potrebno instalirati razvojno okruženje [Visual Studio Community](https://visualstudio.microsoft.com/downloads/).
 
