@@ -116,3 +116,9 @@ Kako biste lakše proverili da li ste ispravno rešili neki zadatak na času ili
 ## 12.31.2022. - 1.28.2023
   <h3 style="color:red">Neće biti nastave.</h3>
 
+## 01.28.2023.
+  * [Tabla](https://github.com/oneskovic/kurs_2022/blob/gh-pages/table/01.28.2023.pdf)
+  * Zadaci:
+  1. [Najveća dijagonala](https://petlja.org/biblioteka/r/Zbirka/najveca_dijagonala) ([Rešenje](https://github.com/oneskovic/kurs_2022/blob/gh-pages/kodovi/01.28.2023/najveca_dijagonala.cs))
+
+
