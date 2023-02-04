@@ -121,4 +121,10 @@ Kako biste lakše proverili da li ste ispravno rešili neki zadatak na času ili
   * Zadaci:
   1. [Najveća dijagonala](https://petlja.org/biblioteka/r/Zbirka/najveca_dijagonala) ([Rešenje](https://github.com/oneskovic/kurs_2022/blob/gh-pages/kodovi/01.28.2023/najveca_dijagonala.cs))
 
+## 02.04.2023.
+  * [Tabla](https://github.com/oneskovic/kurs_2022/blob/gh-pages/table/02.04.2023.pdf)
+  * Zadaci:
+  1. Koncentrični krugovi
+  2. Aproksimacija broja $\pi$ ([Kod](https://github.com/oneskovic/kurs_2022/blob/gh-pages/kodovi/02.04.2023/aproksimacija_pi.cs))
+  3. Konvejova igra života - početak ([Kod](https://github.com/oneskovic/kurs_2022/blob/gh-pages/kodovi/02.04.2023/game_of_life.cs))
 
